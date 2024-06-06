@@ -1,0 +1,2 @@
+C:\Users\Kev_O\OneDrive\Desktop\aktuellt schema\HT 2022\P3\programmeringsmetodik\labbar\labb1\Buffer Programmeringsmetodik\Debug\Buffer Programmeringsmetodik.exe
+C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\Debug\Buffer Programmeringsmetodik.exe

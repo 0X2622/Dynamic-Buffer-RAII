@@ -1,0 +1,15 @@
+﻿  int_buffer.cpp
+C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\int_buffer.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'int_buffer.cpp')
+  
+  int_sorted.cpp
+C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\int_sorted.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\int_buffer.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'int_sorted.cpp')
+  
+  main.cpp
+C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\int_buffer.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  Buffer Programmeringsmetodik.vcxproj -> C:\Users\Kev_O\OneDrive\Desktop\egna kodprojekt\Dynamic buffer\Debug\Buffer Programmeringsmetodik.exe
